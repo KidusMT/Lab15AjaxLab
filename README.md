@@ -6,7 +6,7 @@ CS472 - Web Application Programming
 
 ## Correct configuration for running the project:
 
-- Should be the archive setting for running in the `Edit Configuration`
+- Should be the <strong>`archive`</strong> setting for running in the <i>`Edit Configuration`</i> <strong>NOT</strong> the <strong>`exploded`</strong> version
 
 `Edit Configuration`
 ![image](https://user-images.githubusercontent.com/18373774/117898823-72229780-b28b-11eb-9aef-37425e314a24.png)
